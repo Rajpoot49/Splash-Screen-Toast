@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Splash Screen and Toast</string>
+    <string name="btn">ON</string>
+    <string name="btn1">OFF</string>
+</resources>
